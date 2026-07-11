@@ -9,19 +9,20 @@
   A Roblox script built from the ground up for your precise needs!
   <br/>
   Rise up to the top while remaining completely untouchable.
+  <br/>
+  Built to be the most lightweight version of them all.
 </h2>
 
 ## Contacts
-[Discord](https://discord.gg/VZEQJxMSnG)
+[Discord](https://discord.gg/Y943Pkdc7Q)
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Youtube](https://youtube.com/@halocify)
+<br/>
+
 
 ## Usage
-1. Download the specific scripting utility of your choice.
-2. Execute the provided loadstring below.
-```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
-```
+1. Download the specific scripting utility / executor of your choice. (use weao.dev)
+2. Execute the loadstring.
 
 ## Possible Issues
 Half of the time its usually the scripting utility at fault, please make sure the utility meets certain quality standards such as.
@@ -31,14 +32,16 @@ Half of the time its usually the scripting utility at fault, please make sure th
 ### User Issues
 If its not the supposed utility at fault, please try some troubleshooting steps.
 1. Deleting the newvape folder (WITH THE GAME CLOSED).
-2. Making sure you have connection to [the main loadstring.](https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/refs/heads/main/NewMainScript.lua)
+2. Making sure you have connection to the main loadstring.
 3. Ensuring no external script is conflicting with vape.
 
 ## Developers & Credits
-[7GrandDad](https://github.com/7GrandDadPGN) - Lead maintainer of the project - vaperoblox on Discord
+[7GrandDad](https://github.com/7GrandDadPGN) - Original founder of the project - sevgranddad on Discord
 <br/>
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
 <br/>
 [Egor Skriptunoff, boatbomber, and howmanysmall](https://devforum.roblox.com/t/open-source-hashlib/416732/1) - HashLibrary for Luau
 <br/>
 [Vernumerator](https://devforum.roblox.com/t/predict-projectile-ballistics-including-gravity-and-motion/1842434) - Projectile prediction for Roblox
+<br/>
+[halocify](github.com/halocify) - Current maintainer of helloware
